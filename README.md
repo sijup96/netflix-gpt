@@ -2,6 +2,18 @@
 
 - Create React App
 - Configured TailwindCSS
+- Header
+- Routing of App
+- Login Form
+- Sign Up Form
+- Form Validation
+- Firebase setup
+- Deploy to production
+- Create signUp User account
+- Implement sign In user API
+- Created Redux store with userSlice
+- Update Profile
+
 
 # Features
 
@@ -23,3 +35,10 @@
 
 # Form Validation
 => FORMIK - for large form validaton
+
+# Firebase 
+npm i -g firebase-tools
+firebase login
+firebase init
+? What do you want to use as your public directory? build  [for create react app]
+firebase deploy
