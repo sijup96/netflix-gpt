@@ -13,7 +13,8 @@
 - Implement sign In user API
 - Created Redux store with userSlice
 - Update Profile
-
+- Unsubscribed to the onAuthStateChanged callback
+- TMDB API 
 
 # Features
 
